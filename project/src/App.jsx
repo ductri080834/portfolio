@@ -12,6 +12,12 @@ function App() {
         <AnimatedRoutes/>
     </BrowserRouter>
   )
+  
+  
+  
+  
+  
+  
 }
 
 export default App
